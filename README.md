@@ -6,7 +6,7 @@ This is a single-page application which features a map of Tanpa, Florida. I have
 restaurants and cafes along with an infomation window that will display details of a selected location. Also a search bar 
 
 that can be used to easily find a restaurant or cafe. There is a listview to support simple browsing of all locations. I have 
-chosen to research and implement third-party nstagram API  which provide photos that are posted for these locations.
+chosen to research and implement third-party nstagram API which provide photos that are posted for these locations.
 
 References
 
